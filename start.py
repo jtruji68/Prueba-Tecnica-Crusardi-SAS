@@ -8,10 +8,10 @@ inicio = default_timer()
 # connect to heroku database
 conn = psy.connect(
     """
-    dbname=deparcqr9blpeb
-    host=ec2-35-169-254-43.compute-1.amazonaws.com
-    user=cqgccaxxhxxjxg
-    password=5b583599018fc22218cbc75a3ff47c61815719aa7e974c56362335da50bf0089
+    dbname=d7pok1kk68gmbv
+    host=ec2-35-153-12-59.compute-1.amazonaws.com
+    user=xsblpfukoqvilb
+    password=06548163ac682483816ac4e43f1b69bb2d4ff281f4a8b4a202d9dba817c9a304
     """
 )
 # get the request info in the test file
