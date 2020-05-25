@@ -34,7 +34,7 @@ Por último se imprime el tiempo de ejecución del programa.
 El programa tambien consiste con funcionalidades adicionales como crear archivos cvs con la información en el módulo /modules/Functions.
 Se puede manipular la base de datos directamente mediante consultas preestablecidas en el módulo /modules/Queries.
 
-##Autor
+## Autor
 
 Juan David Ortiz
 www.jtruji.xyz
